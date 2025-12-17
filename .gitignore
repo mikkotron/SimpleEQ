@@ -1,0 +1,10 @@
+**/Builds
+**/JuceLibraryCode
+
+# Visual Studio
+.vs/
+**/bin
+**/obj
+
+# Windows junk
+Thumbs.db
