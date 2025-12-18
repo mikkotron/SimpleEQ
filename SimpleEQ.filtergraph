@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.4525" y="0.4737903225806452" useARA="0" uiLastX_Normal="439"
-          uiLastY_Normal="314" uiopen_Normal="0">
+  <FILTER uid="5" x="0.45125" y="0.4746450304259635" useARA="0" uiLastX_Normal="366"
+          uiLastY_Normal="314" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Users\mikko\Desktop\RandomTests\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.vst3\Contents\x86_64-win\SimpleEQ.vst3"
-            uniqueId="99e02c" isInstrument="0" fileTime="19b2e13cd36" infoUpdateTime="19b2e1ae7d0"
+            uniqueId="99e02c" isInstrument="0" fileTime="19b32f7288e" infoUpdateTime="19b32fe5679"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e959bcc0"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -78,8 +78,8 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="7" x="0.4025" y="0.2741935483870968" useARA="0" uiLastX_Normal="-139"
-          uiLastY_Normal="317" uiopen_Normal="0">
+  <FILTER uid="7" x="0.4025" y="0.2741935483870968" useARA="0" uiLastX_Normal="-3"
+          uiLastY_Normal="233" uiopen_Normal="1">
     <PLUGIN name="SamplerPlugin" format="Internal" category="Synth" manufacturer="JUCE"
             version="1.0.0" file="SamplerPlugin" uniqueId="2a34a53b" isInstrument="1"
             fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="2"
