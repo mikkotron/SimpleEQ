@@ -1,0 +1,1 @@
+I started this project to learn JUCE framework through the tutorial by MatKat music porvided by freeCodCamp.org called "Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course".
